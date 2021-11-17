@@ -909,6 +909,9 @@ video {
 	--tw-bg-opacity: 1;
 	background-color: rgba(59, 130, 246, var(--tw-bg-opacity));
 }
+.bg-contract{
+	background-color: #060930;
+}
 .bg-indigo-500{
 	--tw-bg-opacity: 1;
 	background-color: rgba(99, 102, 241, var(--tw-bg-opacity));
@@ -1154,6 +1157,7 @@ video {
 	--tw-text-opacity: 1;
 	color: rgba(220, 38, 38, var(--tw-text-opacity));
 }
+
 .text-gray-900{
 	--tw-text-opacity: 1;
 	color: rgba(17, 24, 39, var(--tw-text-opacity));
@@ -1930,6 +1934,7 @@ video {
 .border-red-500{--tw-border-opacity:1;border-color:rgba(244, 67, 54, var(--tw-border-opacity))}
 .border-transparent{border-color:transparent}
 .bg-white{--tw-bg-opacity:1;background-color:rgba(255, 255, 255, var(--tw-bg-opacity))}
+.bg-new-gray-100{--tw-bg-opacity:0.07;background-color:rgba(245, 245, 245, var(--tw-bg-opacity))}
 .bg-gray-100{--tw-bg-opacity:1;background-color:rgba(245, 245, 245, var(--tw-bg-opacity))}
 .bg-orange-900{--tw-bg-opacity:1;background-color:rgba(230, 81, 0, var(--tw-bg-opacity))}
 .bg-light-blue-500{--tw-bg-opacity:1;background-color:rgba(3, 169, 244, var(--tw-bg-opacity))}
@@ -2023,6 +2028,7 @@ video {
 .from-yellow-600{--tw-gradient-from:#fdd835;--tw-gradient-stops:var(--tw-gradient-from), var(--tw-gradient-to, rgba(253, 216, 53, 0))}
 .from-lime-500{--tw-gradient-from:#cddc39;--tw-gradient-stops:var(--tw-gradient-from), var(--tw-gradient-to, rgba(205, 220, 57, 0))}
 .from-light-green-500{--tw-gradient-from:#8bc34a;--tw-gradient-stops:var(--tw-gradient-from), var(--tw-gradient-to, rgba(139, 195, 74, 0))}
+.from-light-color-500{--tw-gradient-from:#F8F9FA;--tw-gradient-stops:var(--tw-gradient-from), var(--tw-gradient-to, rgba(139, 195, 74, 0))}
 .from-green-500{--tw-gradient-from:#4caf50;--tw-gradient-stops:var(--tw-gradient-from), var(--tw-gradient-to, rgba(76, 175, 80, 0))}
 .from-teal-500{--tw-gradient-from:#009688;--tw-gradient-stops:var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 150, 136, 0))}
 .from-cyan-500{--tw-gradient-from:#00bcd4;--tw-gradient-stops:var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 188, 212, 0))}
